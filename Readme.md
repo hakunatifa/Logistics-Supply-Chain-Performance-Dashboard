@@ -114,3 +114,7 @@ A visual snapshot of the final dashboard is included in this repository to demon
 - Logistics cost optimization analysis  
 - Excel dashboard portfolio example  
 - Real-world data analytics case study  
+
+
+## Author
+- Linkedin: https://www.linkedin.com/in/mostafa-ti-ahmed/ 
