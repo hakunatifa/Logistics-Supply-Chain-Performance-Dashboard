@@ -1,5 +1,10 @@
 # 📦 Logistics & Supply Chain Performance Dashboard
 
+## 📸 Dashboard Preview
+
+![Logistics & Supply Chain Dashboard](https://raw.githubusercontent.com/hakunatifa/Logistics-Supply-Chain-Performance-Dashboard/refs/heads/main/dashboard.png)
+
+
 ## 📌 Project Overview
 This project focuses on analyzing logistics and supply chain operations data to uncover the main drivers of delivery delays, operational risk, and shipping costs.
 
